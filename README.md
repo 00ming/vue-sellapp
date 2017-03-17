@@ -1,4 +1,4 @@
-仿外卖app
+仿外卖app(好多都在做，所以我也来做)
 
 vue-cli项目
 
@@ -22,3 +22,5 @@ vue练习
 
 过度效果使用<transition></transition>
  学习使用fix布局
+ 使用better-scroll做联动
+ https://github.com/ustbhuangyi/better-scroll
